@@ -39,6 +39,8 @@ Finally here is the graph for comparision of different method when we set alpha 
 
  A closer look:
  ![figure_6](https://cloud.githubusercontent.com/assets/5707322/24784465/cc09d80a-1b20-11e7-8d32-1123a2e9249f.png)
+ 
+ It seems that here double Q learn has the worst performance on this synthetic environment while among others expected SARSA is having better performance and faster learning rate
 
 
 
