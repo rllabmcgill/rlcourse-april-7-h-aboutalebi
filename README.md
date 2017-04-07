@@ -33,4 +33,12 @@ As it can be seen, again for alpha equal to 1 we get the best result. At the beg
 ![figure_4](https://cloud.githubusercontent.com/assets/5707322/24784447/a0d076bc-1b20-11e7-879e-2f2ddfa7e2ac.png)
 
 
+Finally here is the graph for comparision of different method when we set alpha equal to 1:
+
+![figure_5](https://cloud.githubusercontent.com/assets/5707322/24784469/d0fa608c-1b20-11e7-8dda-d232668a3a54.png)
+
+ A closer look:
+ ![figure_6](https://cloud.githubusercontent.com/assets/5707322/24784465/cc09d80a-1b20-11e7-8d32-1123a2e9249f.png)
+
+
 
