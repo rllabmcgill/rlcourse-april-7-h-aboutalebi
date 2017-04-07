@@ -18,3 +18,19 @@ As it can be seen, again for alpha equal to 1 we get the best result. At the beg
 
 ![figure2](https://cloud.githubusercontent.com/assets/5707322/24784368/0ebe4e70-1b20-11e7-88d4-ec4a565d44e4.png)
 
+
+## Q_Learn
+
+As it can be seen, again for alpha equal to 1 we get the best result. At the begining we have high variance no matter what alpha we choose. For alpha equal to 0.01, we have high variance. It seems this graph is better than simple SRSA method, as we have faster learning rate.
+
+![figure_3](https://cloud.githubusercontent.com/assets/5707322/24784420/698b9754-1b20-11e7-8348-c9074ee2b18e.png)
+
+
+## Double Q_Learn
+
+As it can be seen, again for alpha equal to 1 we get the best result. At the begining we have high variance no matter what alpha we choose. For alpha equal to 0.01, we have high variance. It seems this graph is better than simple SRSA method, as we have faster learning rate. It seems this graph has much more variance than the other graphs in nonstationery environment. Especially, in the beggining of the epoch reset.
+
+![figure_4](https://cloud.githubusercontent.com/assets/5707322/24784447/a0d076bc-1b20-11e7-879e-2f2ddfa7e2ac.png)
+
+
+
